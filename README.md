@@ -6,7 +6,7 @@ I'm using this repository to keep track of my progress, practice problem-solving
 
 Most solutions are written in **Python**, and I'll keep updating this repository as I work through the list. If I learn a better approach or optimize an existing solution, I'll update it here as well.
 
-Progress: **2 / 75**
+Progress: **3 / 75**
 
 ## What's in this repository?
 
