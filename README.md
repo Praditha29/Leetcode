@@ -8,6 +8,12 @@ Most solutions are written in **Python**, and I'll keep updating this repository
 
 Progress: **3 / 75**
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LeetCode](https://img.shields.io/badge/LeetCode-Blind%2075-FFA116?style=for-the-badge&logo=leetcode&logoColor=orange)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-9109eb?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-0f944d?style=for-the-badge)
+
+
 ## What's in this repository?
 
 - Solutions to the Leetcode 75 questions
