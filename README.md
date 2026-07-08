@@ -6,7 +6,13 @@ I'm using this repository to keep track of my progress, practice problem-solving
 
 Most solutions are written in **Python**, and I'll keep updating this repository as I work through the list. If I learn a better approach or optimize an existing solution, I'll update it here as well.
 
-Progress: **2 / 75**
+Progress: **3 / 75**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LeetCode](https://img.shields.io/badge/LeetCode-Blind%2075-FFA116?style=for-the-badge&logo=leetcode&logoColor=orange)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-9109eb?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-0f944d?style=for-the-badge)
+
 
 ## What's in this repository?
 
