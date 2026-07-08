@@ -14,3 +14,4 @@ def TwoSum(list1, target):
     return[]
 print(TwoSum(list1, target))
 
+ 
