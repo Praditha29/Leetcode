@@ -6,7 +6,9 @@ I'm using this repository to keep track of my progress, practice problem-solving
 
 Most solutions are written in **Python**, and I'll keep updating this repository as I work through the list. If I learn a better approach or optimize an existing solution, I'll update it here as well.
 
-Progress: **18 / 75**
+Progress: 
+Leetcode 75: **18 / 75**
+Total Leetcode Solved: **18 / 75**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Blind%2075-FFA116?style=for-the-badge&logo=leetcode&logoColor=orange)
@@ -16,7 +18,7 @@ Progress: **18 / 75**
 
 ## What's in this repository?
 
-- Solutions to the Leetcode 75 questions
+- Solutions to the Leetcode questions
 - Clean and readable code with comments for understanding logic
 - Time and space complexity (where applicable)
 
