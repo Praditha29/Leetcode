@@ -12,7 +12,7 @@ class Solution(object):
     
 #during the first iteration:
 # next_node = curr.next
-# prev curr curr.next
-#   ↓   ↓    ↓
-#       1 -> 2 -> 3 -> 4 -> 5 ->
+#          prev  curr curr.next
+#   ↓       ↓    ↓
+#  None  <- 1    2 -> 3 -> 4 -> 5 ->
 
