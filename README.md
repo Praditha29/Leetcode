@@ -8,7 +8,7 @@ Most solutions are written in **Python**, and I'll keep updating this repository
 
 Progress: <br>
 **Leetcode 75: 19 / 75** <br>
-**Total Leetcode Solved: 26 / 75**
+**Total Leetcode Problems Solved: 27**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Blind%2075-FFA116?style=for-the-badge&logo=leetcode&logoColor=orange)
@@ -20,8 +20,6 @@ Progress: <br>
 
 - Solutions to the Leetcode questions
 - Clean and readable code with comments for understanding logic
-- Time and space complexity (where applicable)
-
 
 
 
